@@ -6,14 +6,14 @@
     <description>Recent content in Docs on Forsaken Wiki</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 May 2025 12:26:12 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Class Changes</title>
       <link>http://localhost:1313/docs/class-changes/</link>
-      <pubDate>Mon, 26 May 2025 12:26:12 +0300</pubDate>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/class-changes/</guid>
-      <description>&lt;h2 id=&#34;some-wiki-stuff&#34;&gt;Some wiki stuff &lt;a href=&#34;#some-wiki-stuff&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;la di da~&lt;/p&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo new docs/class-changes.md&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&#xA;&lt;p&gt;&amp;hellip;&lt;/p&gt;</description>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Each class has received a suite of changes, some more than others. All outdated and slow classes have been revamped and are viable in lategame content.&lt;/p&gt;&#xA;&lt;h3 id=&#34;global&#34;&gt;Global &lt;a href=&#34;#global&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Increase stats on &lt;strong&gt;Class Mastery&lt;/strong&gt; passive&lt;/li&gt;&#xA;&lt;li&gt;All party buffs set to Instant Cast&lt;/li&gt;&#xA;&lt;li&gt;Increase stats of &lt;strong&gt;BM Transcendence&lt;/strong&gt; system and allow full completion&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;BM3&lt;/strong&gt; attack speeds increased and attack area synced&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;BM3&lt;/strong&gt; range increased &lt;em&gt;(Melee only)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;warrior&#34;&gt;Warrior &lt;a href=&#34;#warrior&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;hr&gt;&#xA;&#xA;&lt;div class=&#34;alert alert-info d-flex&#34; role=&#34;alert&#34;&gt;&#xA;  &lt;div class=&#34;flex-shrink-1 alert-icon&#34;&gt;&#xA;  &#xA;  &lt;span class=&#34;material-icons size-20 me-2&#34;&gt;&#xA;  info&#xA;  &lt;/span&gt;&lt;/div&gt;&#xA;  &#xA;  &lt;div class=&#34;w-100&#34;&gt;Battle Mode 2 attack speed has been increased significantly&lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;p&gt;Warrior provides a lot of utility through their kit, however lack damage of their own.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
