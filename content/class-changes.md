@@ -3,7 +3,7 @@ date = '2025-05-26T00:00:00'
 draft = false
 title = 'Class Changes'
 icon = "article"
-weight = 999
+weight = 1
 +++
 ---
 Each class has received a suite of changes, some more than others. All outdated and slow classes have been revamped and are viable in lategame content. *This list is not entirely comprehensive.*
